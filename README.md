@@ -9,3 +9,9 @@
 
 <h2>Fonte de dado</h2>
 <p>Arquivo CSV</p>
+
+<h2>Escopo do projeto</h2>
+<p>O objetivo do projeto foi prever o score de uma nova base de clientes a partir de uma base inicial.</p>
+<p>Utilizando da biblioteca pandas para leitura do arquivo CSV e Scikit-learn com métodos de decision treen e KNN.</p>
+
+<img src="imagens/imagem_projeto.png" alt="Imagem do Projeto">

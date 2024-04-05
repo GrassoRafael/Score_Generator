@@ -2,9 +2,7 @@
 
 <h2>Linguagem</h2>
 <p>Python</p>
-
-<h2>FrameWork</h2>
-<p>Jupyter Notebook</p>
+<p>Utilizando Jupyter Notebook</p>
 
 <h2>Bibliotecas</h2>
 <p>Pandas</p>

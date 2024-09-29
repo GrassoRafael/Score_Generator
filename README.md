@@ -1,4 +1,4 @@
-# score_generator
+# Previsão de crédito bancário
 
 <h2>Linguagem</h2>
 <p>Python</p>
